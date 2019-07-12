@@ -1,0 +1,33 @@
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\Magazin IT.exe.config
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\Magazin IT.exe
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\Magazin IT.pdb
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\obj\Debug\Magazin IT.csprojResolveAssemblyReference.cache
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\obj\Debug\Magazin_IT.Form1.resources
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\obj\Debug\Magazin_IT.Properties.Resources.resources
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\obj\Debug\Magazin IT.csproj.GenerateResource.Cache
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\obj\Debug\Magazin IT.exe
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\obj\Debug\Magazin IT.pdb
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\MagazinIT.GUI.dll
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\MagazinIT.GUI.pdb
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Controller.dll
+c:\users\usurelu\documents\visual studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Controller.pdb
+C:\Users\Usurelu\Documents\Visual Studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Repository.dll
+C:\Users\Usurelu\Documents\Visual Studio 2015\Projects\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Repository.pdb
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\Magazin IT.exe.config
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\Magazin IT.exe
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\Magazin IT.pdb
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Controller.dll
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.GUI.dll
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Repository.dll
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Controller.pdb
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.GUI.pdb
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.GUI.dll.config
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\bin\Debug\MagazinIT.Repository.pdb
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin IT.csprojResolveAssemblyReference.cache
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin_IT.Form1.resources
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin_IT.Properties.Resources.resources
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin IT.csproj.GenerateResource.cache
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin IT.csproj.CoreCompileInputs.cache
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin IT.csproj.CopyComplete
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin IT.exe
+F:\Facultate - Cursuri\MPP\Magazin IT\Magazin IT\obj\Debug\Magazin IT.pdb
